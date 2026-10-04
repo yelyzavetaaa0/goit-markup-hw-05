@@ -122,6 +122,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: row;
+
   gap: 16px;
 
   min-width: 165px;
@@ -130,6 +131,5 @@
 }
 
 .footer-form-icon {
-  margin-left: 16px;
   fill: #ffffff;
 }
